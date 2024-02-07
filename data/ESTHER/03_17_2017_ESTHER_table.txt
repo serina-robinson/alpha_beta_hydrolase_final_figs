@@ -1,0 +1,674 @@
+9bact-a0a1b1h1k0	uncultured bacterium	X	Homoserine_transacetylase	uncultured bacterium; Alteromonas macleodii; Alteromonas marina, Homoserine O-acetyltransferase Est22 esterase not transferase	5JKJ	
+9bact-a0a1b1h1k0	uncultured bacterium	X	Homoserine_transacetylase	uncultured bacterium; Alteromonas macleodii; Alteromonas marina, Homoserine O-acetyltransferase Est22 esterase not transferase	5JKF	
+9bact-i6yrg4	uncultured bacterium	X	6_AlphaBeta_hydrolase	uncultured bacterium Est816 N-Acyl homoserine lactone degrading enzyme	5EGN	
+9zzzz-A0A0G3FEJ8	uncultured bacterium		6_AlphaBeta_hydrolase	uncultured bacteria Metagenomic carboxyl esterase MGS0156	5D8M	
+9bact-H6BDX1	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est22	5HC5	
+9bact-H6BDX1	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est22	5HC3	
+9bact-H6BDX1	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est22	5HC2	
+9bact-H6BDX1	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est22	5HC0	
+9bact-H6BDX1	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est22	5HC4	
+9bact-KP212148	uncultured bacterium	X	Dienelactone_hydrolase	Uncultured bacterium Dienelactone Hydrolase-like Promiscuous Phosphotriesterase P91 from Metagenomic Libraries	4ZI5	
+9bact-e7djy5	uncultured bacterium	H	Hormone-sensitive_lipase_like	Uncultured bacterium feruloyl esterase haloalkalitolerant esterase from a soil metagenomic library	4ZRS	
+aciba-AB3403	Acinetobacter baumannii	X	Thioesterase	Acinetobacter baumannii Non-ribosomal peptide synthetase (thioesterase domain)	4ZXH	
+aciba-AB3403	Acinetobacter baumannii	X	Thioesterase	Acinetobacter baumannii Non-ribosomal peptide synthetase (thioesterase domain)	4ZXI	
+9bact-TtEst2	Thermogutta terrifontis	H	Hormone-sensitive_lipase_like	Thermogutta terrifontis thermophilic esterase with minimal cap domain from a Planctomycetes species	5AO9	
+9bact-TtEst2	Thermogutta terrifontis	H	Hormone-sensitive_lipase_like	Thermogutta terrifontis thermophilic esterase with minimal cap domain from a Planctomycetes species	5AOA	
+9bact-TtEst2	Thermogutta terrifontis	H	Hormone-sensitive_lipase_like	Thermogutta terrifontis thermophilic esterase with minimal cap domain from a Planctomycetes species	5AOB	
+9bact-TtEst2	Thermogutta terrifontis	H	Hormone-sensitive_lipase_like	Thermogutta terrifontis thermophilic esterase with minimal cap domain from a Planctomycetes species	5AOC	
+strcj-estA	Streptomyces cinnamoneus	L	PAF-Acetylhydrolase	Streptomyces cinnamoneus (Streptoverticillium cinnamoneum) estA, R18 Feruoyl esterase  strain: NBRC 12852 R18	5H26	
+strcj-estA	Streptomyces cinnamoneus	L	PAF-Acetylhydrolase	Streptomyces cinnamoneus (Streptoverticillium cinnamoneum) estA, R18 Feruoyl esterase  strain: NBRC 12852 R18	5H27	
+9bact-3WYDseq	uncultured bacteria	X	5_AlphaBeta_hydrolase	Uncultured bacteria C-terminal esterase domain of LC-Est1	3WYD	
+halo1-d0lmj0	Haliangium ochraceum	X	5_AlphaBeta_hydrolase	Haliangium ochraceum (strain DSM 14365 / JCM 11303 / SMP-2) Phospholipase/Carboxylesterase	4Q82	
+9acto-C6ZCS0	Streptomyces griseochromogenes	X	Thioesterase	Streptomyces griseochromogenes Type I modular polyketide synthase	3LCR	
+thefu-e5bbq3	Thermobifida fusca	L	Polyesterase-lipase-cutinase	Thermobifida fusca (Thermomonospora fusca), Thermobifida cellulosilytica Cutinase 2	5LUI	
+thefu-e5bbq3	Thermobifida fusca	L	Polyesterase-lipase-cutinase	Thermobifida fusca (Thermomonospora fusca), Thermobifida cellulosilytica Cutinase 2	4CG1	
+thefu-e5bbq3	Thermobifida fusca	L	Polyesterase-lipase-cutinase	Thermobifida fusca (Thermomonospora fusca), Thermobifida cellulosilytica Cutinase 2	4CG2	
+thefu-e5bbq3	Thermobifida fusca	L	Polyesterase-lipase-cutinase	Thermobifida fusca (Thermomonospora fusca), Thermobifida cellulosilytica Cutinase 2	4CG3	
+9acto-e9lvh9	Thermobifida cellulosilytica	L	Polyesterase-lipase-cutinase	Thermobifida cellulosilytica Cutinase 2	5LUJ	
+9acto-e9lvh9	Thermobifida cellulosilytica	L	Polyesterase-lipase-cutinase	Thermobifida cellulosilytica Cutinase 2	5LUL	
+9acto-e9lvh9	Thermobifida cellulosilytica	L	Polyesterase-lipase-cutinase	Thermobifida cellulosilytica Cutinase 2	5LUK	
+9acto-f7ix06	Thermobifida alba	L	Polyesterase-lipase-cutinase	Thermobifida alba Esterase Est119	3WYN	
+9acto-f7ix06	Thermobifida alba	L	Polyesterase-lipase-cutinase	Thermobifida alba Esterase Est119	3VIS	
+9bact-b8y562	uncultured bacterium FLS12	X	A85-EsteraseD-FGH	uncultured bacterium FLS12 Esterase	4RGY	
+9bact-Est97	uncultured bacterium	X	Bacterial_Est97	uncultured bacterium cold-adapted esterase from an Arctic intertidal metagenomic library	4AO6	
+9bact-Est97	uncultured bacterium	X	Bacterial_Est97	uncultured bacterium cold-adapted esterase from an Arctic intertidal metagenomic library	4AO7	
+9bact-Est97	uncultured bacterium	X	Bacterial_Est97	uncultured bacterium cold-adapted esterase from an Arctic intertidal metagenomic library	4AO8	
+9bact-q4tzq3	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est25	5IQ0	
+9bact-q4tzq3	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est25	5IQ2	
+9bact-q4tzq3	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est25	5IQ3	
+9bact-q4tzq3	uncultured bacterium	H	Hormone-sensitive_lipase_like	uncultured bacterium esterase Est25	4J7A	
+9cyan-d0e8e2	Lyngbya majuscula 19L	X	6_AlphaBeta_hydrolase	Lyngbya majuscula 19L Polyketide synthase	3QIT	
+9cyan-q6dnd9	Lyngbya majuscula	X	Haloalkane_dehalogenase-HLD2	Lyngbya majuscula curn	3U1T	
+9delt-a6g7b1	Plesiocystis pacifica SIR-1	X	Haloalkane_dehalogenase-HLD1	Plesiocystis pacifica SIR-1 Haloalkane dehalogenase, putative	2XT0	
+9gamm-d0bwk6	Acinetobacter sp. RUH2624	X	CFTR-inhibitory-factor_Cif	Acinetobacter sp. RUH2624 Predicted protein	4MEA	
+9gamm-d0bwk6	Acinetobacter sp. RUH2624	X	CFTR-inhibitory-factor_Cif	Acinetobacter sp. RUH2624 Predicted protein	4MEB	
+9gamm-k0c6t6	Cycloclasticus sp. P1	X	Carbon-carbon_bond_hydrolase	Cycloclasticus sp. P1 Alpha/beta hydrolase fold-containing protein CCSP0084	4I3F	
+9gamm-q5drn8	Photobacterium sp. M37	L	Lipase_3	Photobacterium sp. M37 lipase	2ORY	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G5X	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G8B	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G8C	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G8D	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G9E	
+9rhiz-d2j2t6	Ochrobactrum sp. T63	X	AHL-acylase	Ochrobactrum sp. T63 Alpha/beta hydrolase fold protein	4G9G	
+acepa-AEHA	Acetobacter pasteurianus	X	Cocaine_esterase	Acetobacter pasteurianus (Acetobacter turbidans) alpha-amino acid ester hydrolase (EC 3.1.1.43)	2B9V	
+acepa-AEHA	Acetobacter pasteurianus	X	Cocaine_esterase	Acetobacter pasteurianus (Acetobacter turbidans) alpha-amino acid ester hydrolase (EC 3.1.1.43)	2B4K	
+acepa-AEHA	Acetobacter pasteurianus	X	Cocaine_esterase	Acetobacter pasteurianus (Acetobacter turbidans) alpha-amino acid ester hydrolase (EC 3.1.1.43)	1NX9	
+acepa-AEHA	Acetobacter pasteurianus	X	Cocaine_esterase	Acetobacter pasteurianus (Acetobacter turbidans) alpha-amino acid ester hydrolase (EC 3.1.1.43)	1RYY	
+aciba-k6lkl9	Acinetobacter baumannii OIFC099	X	ABHD6-Lip	Acinetobacter baumannii OIFC099 Alpha/beta hydrolase family protein	4OPM	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3MUN	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3MUO	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUJ	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUL	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUM	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUN	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUQ	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IUR	
+aerpu-PEP	Aeromonas punctata	X	S9N_PPCE_Peptidase_S9	Aeromonas punctata subsp. punctata prolyl endopeptidase (EC 3.4.21.26)	3IVM	
+agrra-echA	Agrobacterium radiobacter	X	Epoxide_hydrolase	Agrobacterium radiobacter echA gene	1EHY	
+agrt5-a9cj11	Agrobacterium tumefaciens	X	A85-EsteraseD-FGH	Agrobacterium tumefaciens (strain C58 / ATCC 33970) Esterase D	3E4D	
+agrtu-ATU1826	Agrobacterium tumefaciens	X	Atu1826-like	Agrobacterium tumefaciens (strain C58 / ATCC 33970) hypothetical protein atu1826	2I3D	
+agrtu-ATU2452	Agrobacterium tumefaciens	X	5_AlphaBeta_hydrolase	Agrobacterium tumefaciens (strain C58 / ATCC 33970) hypothetical protein atu2452	2R8B	
+agrtu-DHAA	Agrobacterium tumefaciens	X	Haloalkane_dehalogenase-HLD2	Agrobacterium tumefaciens, Agrobacterium radiobacter, haloalkane dehalogenase	3WIB	
+agrtu-DHAA	Agrobacterium tumefaciens	X	Haloalkane_dehalogenase-HLD2	Agrobacterium tumefaciens, Agrobacterium radiobacter, haloalkane dehalogenase	3WI7	
+alceu-phbc	Ralstonia eutropha	X	PHA_synth_I	Alcaligenes eutrophus (Ralstonia eutropha) (polyhydroxyalkanoic acid synthase)	5T6O	
+alceu-phbc	Ralstonia eutropha	X	PHA_synth_I	Alcaligenes eutrophus (Ralstonia eutropha) (polyhydroxyalkanoic acid synthase)	5HZ2	
+alcsp-cxest	Alcaligenes sp.	X	Bacterial_esterase	Alcaligenes sp bacterial esterase	1QLW	
+alcsp-cxest	Alcaligenes sp.	X	Bacterial_esterase	Alcaligenes sp bacterial esterase	2WKW	
+aliac-est2	Alicyclobacillus Acidocaldarius	H	Hormone-sensitive_lipase_like	Alicyclobacillus Acidocaldarius Thermophilic Carboxylesterase Est2	1EVQ	
+aliac-est2	Alicyclobacillus Acidocaldarius	H	Hormone-sensitive_lipase_like	Alicyclobacillus Acidocaldarius Thermophilic Carboxylesterase Est2	2HM7	
+aliac-est2	Alicyclobacillus Acidocaldarius	H	Hormone-sensitive_lipase_like	Alicyclobacillus Acidocaldarius Thermophilic Carboxylesterase Est2	1QZ3	
+aliac-est2	Alicyclobacillus Acidocaldarius	H	Hormone-sensitive_lipase_like	Alicyclobacillus Acidocaldarius Thermophilic Carboxylesterase Est2	1U4N	
+amyme-RIFR	Amycolatopsis mediterranei	X	Thioesterase	Amycolatopsis mediterranei (Nocardia mediterranei) rifr Thioesterase domain	3FLA	
+amyme-RIFR	Amycolatopsis mediterranei	X	Thioesterase	Amycolatopsis mediterranei (Nocardia mediterranei) rifr Thioesterase domain	3FLB	
+anasp-ALR0039	Anabaena variabilis	X	Haloacetate_dehalogenase	Anabaena sp. (strain PCC 7120) Anabaena variabilis (strain ATCC 29413 / PCC 7937) hypothetical protein alr0039	3QYJ	
+anavt-q3m5q1	Anabaena variabilis	X	DLH-S	Anabaena variabilis (strain ATCC 29413 / PCC 7937) dienelactone hydrolase	2O2G	
+arcfu-estea	Archaeoglobus fulgidus	H	Hormone-sensitive_lipase_like	Archaeoglobus fulgidus AFEST AF1716 esterase	1JJI	
+artni-Q93NG6	Arthrobacter nicotinovorans	X	Duf_1100	Arthrobacter nicotinovorans hypothetical endopeptidase (putative endopeptidase)	2JBW	
+artsp-hod	Arthrobacter sp.	X	HOD-cofactorfree-dioxygenase	Arthrobacter sp. Arthrobacter ilicis Arthrobacter nitroguajacolicus RU61A  hod gene 1h-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (HOD)	4CFS	
+artsp-hod	Arthrobacter sp.	X	HOD-cofactorfree-dioxygenase	Arthrobacter sp. Arthrobacter ilicis Arthrobacter nitroguajacolicus RU61A  hod gene 1h-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (HOD)	2WJ3	
+artsp-hod	Arthrobacter sp.	X	HOD-cofactorfree-dioxygenase	Arthrobacter sp. Arthrobacter ilicis Arthrobacter nitroguajacolicus RU61A  hod gene 1h-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (HOD)	2WJ4	
+artsp-hod	Arthrobacter sp.	X	HOD-cofactorfree-dioxygenase	Arthrobacter sp. Arthrobacter ilicis Arthrobacter nitroguajacolicus RU61A  hod gene 1h-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (HOD)	2WJ6	
+artsp-hod	Arthrobacter sp.	X	HOD-cofactorfree-dioxygenase	Arthrobacter sp. Arthrobacter ilicis Arthrobacter nitroguajacolicus RU61A  hod gene 1h-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (HOD)	2WM2	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4LHE	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4KE6	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4KE7	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4KE8	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4KE9	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	4KEA	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	3RLI	
+bac25-mglp	Bacillus sp.	X	CarbLipBact_2	Bacillus sp., Geobacillus kaustophilus; Geobacillus thermoleovorans Thermostable; Anoxybacillus thermarum monoacylglycerol lipase	3RM3	
+bacan-BA2687	Bacillus anthracis	X	6_AlphaBeta_hydrolase	Bacillus anthracis (strain Ames) hydrolase, and Bacillus cereus (strain ATCC 10987)  alpha/beta fold family	3OOS	
+bacan-BA3165	Bacillus cereus	X	Haloperoxidase	Bacillus anthracis, Bacillus cereus, Bacillus thuringiensis, bromoperoxidase (EC 1.11.1.10)	3FOB	
+bacan-BA4983	Bacillus anthracis	X	Homoserine_transacetylase	Bacillus anthracis, Bacillus cereus, Homoserine O-acetyltransferase, putative	3I1I	
+bacc1-q739p5	Bacillus cereus	X	5_AlphaBeta_hydrolase	Bacillus cereus (strain ATCC 10987) (strain ZK) hypothetical protein	5F2H	
+bacce-BC3642	Bacillus cereus	X	5_AlphaBeta_hydrolase	Bacillus cereus (strain ATCC 14579 / DSM 31) (strain ATCC 10987)  (strain ZK) carboxylesterase (EC 3.1.1.1)	2H1I	
+bacce-BC3734	Bacillus cereus	X	A85-IroE-IroD-Fes-Yiel	Bacillus cereus, Bacillus thuringiensis, Bacillus cereus, Bacillus mycoides IROE protein	2QM0	
+bacfn-q5lef1	Bacteroides fragilis	X	Abhydrolase_7	Bacteroides fragilis (strain ATCC 25285 / NCTC 9343)BF1801 Putative uncharacterized protein	3NUZ	
+bacme-g9bex6	Bacillus megaterium	X	Epoxide_hydrolase	Bacillus megaterium Soluble epoxide hydrolase	4NZZ	
+bacme-g9bex6	Bacillus megaterium	X	Epoxide_hydrolase	Bacillus megaterium Soluble epoxide hydrolase	4O08	
+bacme-g9bex6	Bacillus megaterium	X	Epoxide_hydrolase	Bacillus megaterium Soluble epoxide hydrolase	4INZ	
+bacme-g9bex6	Bacillus megaterium	X	Epoxide_hydrolase	Bacillus megaterium Soluble epoxide hydrolase	4IO0	
+bacov-a7lu53	Bacteroides ovatus ATCC 8483	X	DPP4N_Peptidase_S9	Bacteroides ovatus, Bacteroides sp., Bacteroides xylanisolvens, Putative uncharacterized protein	4Q1V	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	2XLB	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	2XLC	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	3FVT	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	3FYT	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	3FYU	
+bacpu-AXE	Bacillus pumilus	X	Acetyl-esterase_deacetylase	Bacillus pumilus (Bacillus mesentericus)  (strain SAFR-032; ATCC 7061) acetyl xylan esterase (EC 3.1.1.6)	3FVR	
+bacsu-brefe	Bacillus subtilis	H	Hormone-sensitive_lipase_like	Bacillus subtilis brefeldin A esterase	1JKM	
+bacsu-CAH	Bacillus subtilis	X	Acetyl-esterase_deacetylase	Bacillus subtilis  cephalosporin c deacetylase (EC 3.1.1.41)	1L7A	
+bacsu-CAH	Bacillus subtilis	X	Acetyl-esterase_deacetylase	Bacillus subtilis  cephalosporin c deacetylase (EC 3.1.1.41)	1ODS	
+bacsu-CAH	Bacillus subtilis	X	Acetyl-esterase_deacetylase	Bacillus subtilis  cephalosporin c deacetylase (EC 3.1.1.41)	1ODT	
+bacsu-cbxnp	Bacillus subtilis	X	6_AlphaBeta_hydrolase	Bacillus subtilis carboxylesterase NA ou NP P96688	4CCW	
+bacsu-cbxnp	Bacillus subtilis	X	6_AlphaBeta_hydrolase	Bacillus subtilis carboxylesterase NA ou NP P96688	2R11	
+bacsu-FENB	Bacillus subtilis	X	Thioesterase	Bacillus subtilis fengycin synthetase	2CBG	
+bacsu-FENB	Bacillus subtilis	X	Thioesterase	Bacillus subtilis fengycin synthetase	2CB9	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CT9	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CT6	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CT8	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CRI	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CT5	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CUR	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CT4	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	5CTA	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	3QZU	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	3QMM	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	3D2A	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	3D2B	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	3D2C	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	2QXT	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	2QXU	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1I6W	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1ISP	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1R4Z	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1R50	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1T2N	
+bacsu-lip	Bacillus subtilis	X	Lipase_2	Bacillus subtilis lipase precursor (EC 3.1.1.3) (triacylglycerol lipase)	1T4M	
+bacsu-pnbae	Bacillus subtilis	C	Carb_B_Bacteria	Bacillus subtilis, Bacillus sp., para-nitrobenzyl esterase (pnbA) intracellular esterase B	1C7J	
+bacsu-pnbae	Bacillus subtilis	C	Carb_B_Bacteria	Bacillus subtilis, Bacillus sp., para-nitrobenzyl esterase (pnbA) intracellular esterase B	1QE3	
+bacsu-pnbae	Bacillus subtilis	C	Carb_B_Bacteria	Bacillus subtilis, Bacillus sp., para-nitrobenzyl esterase (pnbA) intracellular esterase B	1C7I	
+bacsu-srf4	Bacillus subtilis	X	Thioesterase	Bacillus subtilis csi16 Thioesterase domain	2K2Q	
+bacsu-srf4	Bacillus subtilis	X	Thioesterase	Bacillus subtilis csi16 Thioesterase domain	2RON	
+bacsu-srfac	Bacillus subtilis	X	Thioesterase	Bacillus subtilis surfactin synthetase subunit 3	1JMK	
+bacsu-srfac	Bacillus subtilis	X	Thioesterase	Bacillus subtilis surfactin synthetase subunit 3	2VSQ	
+bacsu-ybfk	Bacillus subtilis	X	6_AlphaBeta_hydrolase	Bacillus subtilis ybkf	4CCY	
+bacsu-YDEN	Bacillus subtilis	X	Duf_1234	Bacillus subtilis yden protein	1UXO	
+bacsu-yvfQ	Bacillus subtilis	X	RsbQ-like	Bacillus subtilis yvfQ  sigma factor sigb CAB08011.1 CAB15415.1 also regulation proteinRsbQ	1WOM	
+bacsu-yvfQ	Bacillus subtilis	X	RsbQ-like	Bacillus subtilis yvfQ  sigma factor sigb CAB08011.1 CAB15415.1 also regulation proteinRsbQ	1WPR	
+bactc-lipas	Bacillus thermocatenulatus	L	Bacterial_lip_FamI.5	Bacillus thermocatenulatus triacylglycerol lipase gene	5CE5	
+bactc-lipas	Bacillus thermocatenulatus	L	Bacterial_lip_FamI.5	Bacillus thermocatenulatus triacylglycerol lipase gene	2W22	
+bacv8-a6l7p9	Bacteroides vulgatus	X	Abhydrolase_7	Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154) and (Bacteroides dorei DSM 17855  5_1_36/D4 Bacteroides sp. 9_1_42FAA  3_1_33FAA) Putative uncharacterized protein	3G8Y	
+brael-e2rv62	Bradyrhizobium elkanii	X	Haloalkane_dehalogenase-HLD2	Bradyrhizobium elkanii haloalkane dehalogenase (EC 3.8.1.5)	4K2A	
+braja-dhaa	Bradyrhizobium japonicum	X	Haloalkane_dehalogenase-HLD2	Bradyrhizobium japonicum; Bradyrhizobium diazoefficiens, haloalkane dehalogenase (EC 3.8.1.5)	3AFI	
+braja-dhaa	Bradyrhizobium japonicum	X	Haloalkane_dehalogenase-HLD2	Bradyrhizobium japonicum; Bradyrhizobium diazoefficiens, haloalkane dehalogenase (EC 3.8.1.5)	3A2L	
+braja-dhaa	Bradyrhizobium japonicum	X	Haloalkane_dehalogenase-HLD2	Bradyrhizobium japonicum; Bradyrhizobium diazoefficiens, haloalkane dehalogenase (EC 3.8.1.5)	3A2M	
+braja-dhaa	Bradyrhizobium japonicum	X	Haloalkane_dehalogenase-HLD2	Bradyrhizobium japonicum; Bradyrhizobium diazoefficiens, haloalkane dehalogenase (EC 3.8.1.5)	3A2N	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	5LIP	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	4LIP	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	1OIL	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	2LIP	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	3LIP	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	1YS1	
+burce-lipaa	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Pseudomonas cepacia, Burkholderia sp., lipase (lipA)	1YS2	
+burce-q75nt4	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Burkholderia cepacia (Pseudomonas cepacia) cholesterol esterase	2NW6	
+burce-q75nt4	Burkholderia cepacia	L	Bacterial_lip_FamI.2	Burkholderia cepacia (Pseudomonas cepacia) cholesterol esterase	1HQD	
+burcj-b4ea96	Burkholderia cepacia	X	Haloperoxidase	Burkholderia cepacia (strain J2315 / LMG 16656) (Burkholderia cenocepacia (strain J2315)) Non-heme chloroperoxidase	4DGQ	
+burgl-lipas	Burkholderia glumae	L	Bacterial_lip_FamI.2	Burkholderia glumae (Pseudomonas glumae)also Chromobacterium viscosum lipase gene	1CVL	
+burgl-lipas	Burkholderia glumae	L	Bacterial_lip_FamI.2	Burkholderia glumae (Pseudomonas glumae)also Chromobacterium viscosum lipase gene	1TAH	
+burgl-lipas	Burkholderia glumae	L	Bacterial_lip_FamI.2	Burkholderia glumae (Pseudomonas glumae)also Chromobacterium viscosum lipase gene	1QGE	
+burgl-lipas	Burkholderia glumae	L	Bacterial_lip_FamI.2	Burkholderia glumae (Pseudomonas glumae)also Chromobacterium viscosum lipase gene	2ES4	
+bursp-deha	Burkholderia sp.	X	Haloacetate_dehalogenase	Burkholderia sp Fluoroacetate dehalogenase	3B12	
+bursp-deha	Burkholderia sp.	X	Haloacetate_dehalogenase	Burkholderia sp Fluoroacetate dehalogenase	1Y37	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	3V1K	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	3V1L	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	3V1M	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	3V1N	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2PUH	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2RHW	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2RHT	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2RI6	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2PU5	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2PU7	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2PUJ	
+burxl-bphD	Burkholderia xenovorans LB400	X	Carbon-carbon_bond_hydrolase	Burkholderia xenovorans 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase gene bphD	2OG1	
+burxl-q13kt2	Burkholderia xenovorans	X	Carboxymethylbutenolide_lactonase	Burkholderia xenovorans; Burkholderia sp. 3-oxoadipate enol-lactonase (pcad) (EC 3.1.1.24)	2XUA	
+capod-c7m590	Capnocytophaga ochracea	X	A85-IroE-IroD-Fes-Yiel	Capnocytophaga ochracea (strain ATCC 27872 / DSM 7271 / JCM 12966  VPI 2845) (Bacteroides ochraceus) Putative uncharacterized protein	4W9R	
+caucr-CC1175	Caulobacter crescentus	X	Haloalkane_dehalogenase-HLD1	Caulobacter crescentus (and strain NA1000/CB15N)haloalkane dehalogenase, putative	5ESR	
+chipd-c7pex8	Chitinophaga pinensis	X	6_AlphaBeta_hydrolase	Chitinophaga pinensis (strain ATCC 43595 / DSM 2588 / NCIB 11800 / UQ 2034) Alpha/beta hydrolase fold protein	4PW0	
+cloac-CAC0816	Clostridium acetobutylicum	X	6_AlphaBeta_hydrolase	Clostridium acetobutylicum lipase-esterase related protein	3E0X	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	3ZI7	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	1GKK	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	4BAG	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	4H35	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	1GKL	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	1WB4	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	1WB5	
+clotm-xyny	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum  (strains DSM 2360; JW20; ATCC 27405 / DSM 1237) Feruloyl Esterase Domain (1,4-beta-d-xylan xylanohydrolase y)	1WB6	
+clotm-xynz	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum   (strain ATCC 27405 / DSM 1237; JW20; DSM 2360) Feruloyl Esterase Domain of the cellulosomal xylanase Z	1JJF	
+clotm-xynz	Clostridium thermocellum	X	A85-Feruloyl-Esterase	Clostridium thermocellum   (strain ATCC 27405 / DSM 1237; JW20; DSM 2360) Feruloyl Esterase Domain of the cellulosomal xylanase Z	1JT2	
+corgl-CGL0343	Corynebacterium glutamicum	X	A85-Mycolyl-transferase	Corynebacterium glutamicum (Brevibacterium flavum), hypothetical protein cgl0343	4H18	
+corgl-CGL0839	Corynebacterium glutamicum	X	Homoserine_transacetylase_like_est	Corynebacterium glutamicum (Brevibacterium flavum)CgHle CGL0839 homoserine acetyltransferase like esterase	5D6O	
+corgl-CGL0839	Corynebacterium glutamicum	X	Homoserine_transacetylase_like_est	Corynebacterium glutamicum (Brevibacterium flavum)CgHle CGL0839 homoserine acetyltransferase like esterase	5D7B	
+coxbu-CBU1769	Coxiella burnetii	X	Atu1826-like	Coxiella burnetii hypothetical protein	3TRD	
+ecoli-Aes	Escherichia coli	H	Hormone-sensitive_lipase_like_1	Escherichia coli, Escherichia fergusonii, acetylesterase lipase like enzyme YBAC Aes Escherichia fergusonii	4KRX	
+ecoli-Aes	Escherichia coli	H	Hormone-sensitive_lipase_like_1	Escherichia coli, Escherichia fergusonii, acetylesterase lipase like enzyme YBAC Aes Escherichia fergusonii	4KRY	
+ecoli-rutD	Escherichia coli	X	RutD	Escherichia coli BchO gene protein rutD Pyrimidine utilization protein D ycdJ rarA	3V48	
+ecoli-bioh	Escherichia coli	X	BioH	Escherichia coli, Escherichia fergusonii, Escherichia albertii, Escherichia sp., biotin biosynthesis bioh bioH2	4ETW	
+ecoli-bioh	Escherichia coli	X	BioH	Escherichia coli, Escherichia fergusonii, Escherichia albertii, Escherichia sp., biotin biosynthesis bioh bioH2	1M33	
+ecoli-entf	Escherichia coli	X	Thioesterase	Escherichia coli Thioesterase domain enterobactin synthetase component f (EC 2.7.7.-) (serine activating enzyme)	5T3D	
+ecoli-entf	Escherichia coli	X	Thioesterase	Escherichia coli Thioesterase domain enterobactin synthetase component f (EC 2.7.7.-) (serine activating enzyme)	2ROQ	
+ecoli-entf	Escherichia coli	X	Thioesterase	Escherichia coli Thioesterase domain enterobactin synthetase component f (EC 2.7.7.-) (serine activating enzyme)	5JA1	
+ecoli-entf	Escherichia coli	X	Thioesterase	Escherichia coli Thioesterase domain enterobactin synthetase component f (EC 2.7.7.-) (serine activating enzyme)	5JA2	
+ecoli-entf	Escherichia coli	X	Thioesterase	Escherichia coli Thioesterase domain enterobactin synthetase component f (EC 2.7.7.-) (serine activating enzyme)	3TEJ	
+ecoli-IROE	Escherichia coli	X	A85-IroE-IroD-Fes-Yiel	Escherichia coli, Enterobactin and Salmochelin Hydrolase IroE, Salmochelin siderophore protein	2GZR	
+ecoli-IROE	Escherichia coli	X	A85-IroE-IroD-Fes-Yiel	Escherichia coli, Enterobactin and Salmochelin Hydrolase IroE, Salmochelin siderophore protein	2GZS	
+ecoli-mhpc	Escherichia coli	X	Carbon-carbon_bond_hydrolase	Escherichia coli, mhpC gene 2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase in 3-hydroxy-phenylpropionic acid degradation	1U2E	
+ecoli-ybff	Escherichia coli	X	6_AlphaBeta_hydrolase	Escherichia coli, Escherichia albertii, Escherichia fergusonii, putative esterase/lipase YbfF (EC 3.1.-.-)	3BF7	
+ecoli-ybff	Escherichia coli	X	6_AlphaBeta_hydrolase	Escherichia coli, Escherichia albertii, Escherichia fergusonii, putative esterase/lipase YbfF (EC 3.1.-.-)	3BF8	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4MYS	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4MYD	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4MXD	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4GEC	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4GEG	
+ecoli-YFBB	Escherichia coli	X	MenH_SHCHC	Escherichia coli, Escherichia fergusonii, Escherichia albertii, MenH  (EC 2.3.1.12) 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	4GDM	
+ecoli-yghX	Escherichia coli	X	Dienelactone_hydrolase	Escherichia coli, Escherichia fergusonii, Carboxymethylenebutenolidase yghX, orf_f136	4ZV9	
+entfa-EF0381	Enterococcus faecalis	H	Hormone-sensitive_lipase_like	Enterococcus faecalis (Streptococcus faecalis) hypothetical protein	2QRU	
+erwct-q6d2k4	Erwinia carotovora	X	Duf_1234	Erwinia carotovora (subsp. atroseptica) (Pectobacterium atrosepticum) hypothetical protein	3BDV	
+fratt-q5ni32	Francisella tularensis	X	LYsophospholipase_carboxylesterase	Francisella tularensis (subsp. tularensis)(and  subsp. holarctica (strain LVS)) carboxylesterase/phospholipase family protein (EC 3.1.1.-)	4F21	
+geost-est50	Geobacillus stearothermophilus	C	Carb_B_Bacteria	Geobacillus stearothermophilus (Bacillus stearothermophilus) thermostable carboxylesterase Est55 Est-55 Est50 ATCC 12980 IS4712-like insertion	2OGS	
+geost-est50	Geobacillus stearothermophilus	C	Carb_B_Bacteria	Geobacillus stearothermophilus (Bacillus stearothermophilus) thermostable carboxylesterase Est55 Est-55 Est50 ATCC 12980 IS4712-like insertion	2OGT	
+geost-lipas	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Bacillus stearothermophilus Geobacillus stearothermophilus  lipase gene, complete cds	1JI3	
+geost-lipas	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Bacillus stearothermophilus Geobacillus stearothermophilus  lipase gene, complete cds	1KU0	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	4FKB	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	4FDM	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	3UMJ	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	3AUK	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	2DSN	
+bacsp-lip	Geobacillus thermoleovorans	L	Bacterial_lip_FamI.5	Geobacillus thermoleovorans Geobacillus zalihae T1 Bacillus sp. 42 organic solvent tolerant lipase	2Z5G	
+geose-q93a71	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Geobacillus stearothermophilus (Bacillus stearothermophilus) lipase	4X85	
+geose-q93a71	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Geobacillus stearothermophilus (Bacillus stearothermophilus) lipase	4X6U	
+geose-q93a71	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Geobacillus stearothermophilus (Bacillus stearothermophilus) lipase	4X71	
+geose-q93a71	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Geobacillus stearothermophilus (Bacillus stearothermophilus) lipase	4X7B	
+geose-q93a71	Geobacillus stearothermophilus	L	Bacterial_lip_FamI.5	Geobacillus stearothermophilus (Bacillus stearothermophilus) lipase	4FMP	
+haein-metx	Haemophilus influenzae	X	Homoserine_transacetylase	Haemophilus influenzae  Homoserine O-acetyltransferase  (hta)	2B61	
+haein-y1552	Haemophilus influenzae	X	Duf_452	Haemophilus influenzae pimeloyl-ACP methyl esterase BioG	5GNG	
+haein-y1552	Haemophilus influenzae	X	Duf_452	Haemophilus influenzae pimeloyl-ACP methyl esterase BioG	5H3B	
+klep7-A6TGL0	Klebsiella pneumoniae subsp. pneumoniae	X	Dienelactone_hydrolase	Klebsiella pneumoniae subsp. pneumoniae Putative dienelactone hydrolase ysgA	3F67	
+klepn-c4x8q1	Klebsiella pneumoniae	X	Epoxide_hydrolase	Klebsiella pneumoniae Putative epoxide hydrolase protein	5BOV	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3PF8	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3PF9	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3PFB	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3PFC	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3QM1	
+lacjo-q74hk5	Lactobacillus johnsonii NCC 533	X	AlphaBeta_hydrolase	Lactobacillus johnsonii NCC 533 hypothetical protein	3S2Z	
+lacla-pepx	Lactobacillus lactis	X	Lactobacillus_peptidase	Lactococcus lactis and Lactococcus lactis  (subsp.cremoris)(Streptococcus cremoris)(and strains MG1363; SK11) X-prolyl dipeptidyl aminopeptidase (pepXP)	1LNS	
+lacla-YAHD	Lactococcus lactis	X	5_AlphaBeta_hydrolase	Lactococcus lactis (subsp. lactis) (Streptococcus lactis) hypothetical protein yahd	3OG9	
+lacla-YEEB	Lactococcus lactis	H	Hormone-sensitive_lipase_like	Lactococcus lactis (subsp. lactis) (Streptococcus lactis) sugar hydrolase	3HXK	
+lacpl-LP.0973	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum lipase/esterase	4C87	
+lacpl-LP.0973	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum lipase/esterase	4C88	
+lacpl-LP.0973	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum lipase/esterase	4C89	
+lacpl-LP.1002	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum lipase/esterase (putative)	3BJR	
+lacpl-LP.1165	Lactobacillus plantarum	X	Duf_915	Lactobacillus plantarum WCFS1 cell surface hydrolase (putative)	3LP5	
+lacpl-LP.2923	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum  Cest-2923 (lp_2923) lipase/esterase	3D3N	
+lacpl-LP.2923	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum  Cest-2923 (lp_2923) lipase/esterase	4BZW	
+lacpl-LP.2923	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum  Cest-2923 (lp_2923) lipase/esterase	4BZZ	
+lacpl-LP.2923	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum  Cest-2923 (lp_2923) lipase/esterase	4C01	
+lacpl-LP.2923	Lactobacillus plantarum	H	Hormone-sensitive_lipase_like	Lactobacillus plantarum  Cest-2923 (lp_2923) lipase/esterase	3BXP	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0J	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0K	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0C	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0D	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0G	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0H	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4J0I	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	4JUI	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	3WA6	
+lacpl-tanL	Lactobacillus plantarum	H	Tannase_Bact	Lactobacillus plantarum Tannase (Tannin acylhydrolase) LP.2956 tanL	3WA7	
+lacrh-B2CZF3	Lactobacillus rhamnosus	X	CarbLipBact_1	Lactobacillus rhamnosus esterase D	3E1G	
+lacrh-B2CZF3	Lactobacillus rhamnosus	X	CarbLipBact_1	Lactobacillus rhamnosus esterase D	3DYI	
+lacrh-B2CZF3	Lactobacillus rhamnosus	X	CarbLipBact_1	Lactobacillus rhamnosus esterase D	3DYV	
+lacrh-B2CZF3	Lactobacillus rhamnosus	X	CarbLipBact_1	Lactobacillus rhamnosus esterase D	3DKR	
+lacrh-B2CZF3	Lactobacillus rhamnosus	X	CarbLipBact_1	Lactobacillus rhamnosus esterase D	3DLT	
+lacrh-estB	Lactobacillus rhamnosus	H	Hormone-sensitive_lipase_like	Lactobacillus rhamnosus (LMS2-1) (HN001) Esterase BLRH_10360	4N5H	
+lacrh-estB	Lactobacillus rhamnosus	H	Hormone-sensitive_lipase_like	Lactobacillus rhamnosus (LMS2-1) (HN001) Esterase BLRH_10360	4OUK	
+lacrh-estB	Lactobacillus rhamnosus	H	Hormone-sensitive_lipase_like	Lactobacillus rhamnosus (LMS2-1) (HN001) Esterase BLRH_10360	4PO3	
+lacrh-estB	Lactobacillus rhamnosus	H	Hormone-sensitive_lipase_like	Lactobacillus rhamnosus (LMS2-1) (HN001) Esterase BLRH_10360	4N5I	
+legph-q5zwi2	Legionella pneumophila	X	Fungal-Bact_LIP	Legionella pneumophila Putative uncharacterized protein	4EZI	
+lepin-METX	Leptospira interrogans	X	Homoserine_transacetylase	Leptospira interrogans, Leptospira borgpetersenii, homoserine o-acetyltransferase (EC 2.3.1.31)	2PL5	
+lisin-LIN2722	Listeria innocua	X	Duf_915	Listeria innocua hypothetical protein lin2722	3DS8	
+meslo-MLR6787	Rhizobium loti	X	6_AlphaBeta_hydrolase	Rhizobium loti (Mesorhizobium loti) putative hydrolase	3KXP	
+mycmm-b2hlx2	Mycobacterium marinum	H	Hormone-sensitive_lipase_like	Mycobacterium marinum (strain ATCC BAA-535 / M) Esterase LipW	3QH4	
+mycs2-a0qvs8	Mycobacterium smegmatis	X	Proline_iminopeptidase	Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155) Prolyl aminopeptidase	3NWO	
+mycs2-a0r619	Mycobacterium smegmatis	X	Cutinase	Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155) MSMEG_6394 Putative uncharacterized protein	3AJA	
+myctu-a85a	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis, fibronectin-binding protein A	1SFR	
+myctu-a85b	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis, Mycobacterium microti, fibronectin-binding protein Bcomplex Bag85B Rv1886c	1F0N	
+myctu-a85b	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis, Mycobacterium microti, fibronectin-binding protein Bcomplex Bag85B Rv1886c	1F0P	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	1DQZ	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	1DQY	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QDO	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QDT	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QDU	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QDX	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QDZ	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QE3	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4QEK	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	3HRH	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4MQM	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	4MQL	
+myctu-a85c	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, Mycobacterium bovis Antigen85c H37Rv FBPC or MPT45 or RV0129C or MTCI5.03C	1VA5	
+myctu-bpoC	Mycobacterium tuberculosis	X	6_AlphaBeta_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, Rv0554 MT0580 bpoC bromoperoxidase, putative	3HSS	
+myctu-bpoC	Mycobacterium tuberculosis	X	6_AlphaBeta_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, Rv0554 MT0580 bpoC bromoperoxidase, putative	3HYS	
+myctu-bpoC	Mycobacterium tuberculosis	X	6_AlphaBeta_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, Rv0554 MT0580 bpoC bromoperoxidase, putative	3HZO	
+myctu-bpoC	Mycobacterium tuberculosis	X	6_AlphaBeta_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, Rv0554 MT0580 bpoC bromoperoxidase, putative	3E3A	
+myctu-ephB	Mycobacterium tuberculosis	X	Epoxide_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, ephB Rv1938 epoxide hydrolase	2E3J	
+myctu-ephB	Mycobacterium tuberculosis	X	Epoxide_hydrolase	Mycobacterium tuberculosis, Mycobacterium bovis, ephB Rv1938 epoxide hydrolase	2ZJF	
+myctu-linb	Mycobacterium tuberculosis	X	Haloalkane_dehalogenase-HLD2	Mycobacterium tuberculosis, Mycobacterium bovis, DHAA linb DhaA dmbA Rv2296 haloalkane dehalogenase (EC 3.8.1.5)	2QVB	
+myctu-linb	Mycobacterium tuberculosis	X	Haloalkane_dehalogenase-HLD2	Mycobacterium tuberculosis, Mycobacterium bovis, DHAA linb DhaA dmbA Rv2296 haloalkane dehalogenase (EC 3.8.1.5)	2O2H	
+myctu-linb	Mycobacterium tuberculosis	X	Haloalkane_dehalogenase-HLD2	Mycobacterium tuberculosis, Mycobacterium bovis, DHAA linb DhaA dmbA Rv2296 haloalkane dehalogenase (EC 3.8.1.5)	2O2I	
+myctu-mpt51	Mycobacterium tuberculosis	X	A85-Mycolyl-transferase	Mycobacterium tuberculosis, MPT51/MPB51 antigen	1R88	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V3X	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V3Y	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V40	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V3Z	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V41	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V3W	
+myctu-PKS13	Mycobacterium tuberculosis	X	Thioesterase	Mycobacterium tuberculosis, Mycobacterium bovis, polyketide synthase Thioesterase domain (PKS13 Rv3800c MT3907)	5V42	
+myctu-RV0045C	Mycobacterium tuberculosis	X	6_AlphaBeta_hydrolase	Mycobacterium tuberculosis; Mycobacterium bovis hypothetical protein rv0045c	3P2M	
+myctu-Rv3569c	Mycobacterium tuberculosis	X	Carbon-carbon_bond_hydrolase	Mycobacterium tuberculosis and Mycobacterium bovis 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase bphD BPHD	2VF2	
+myctu-Rv3569c	Mycobacterium tuberculosis	X	Carbon-carbon_bond_hydrolase	Mycobacterium tuberculosis and Mycobacterium bovis 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase bphD BPHD	2WUD	
+myctu-Rv3569c	Mycobacterium tuberculosis	X	Carbon-carbon_bond_hydrolase	Mycobacterium tuberculosis and Mycobacterium bovis 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase bphD BPHD	2WUE	
+myctu-Rv3569c	Mycobacterium tuberculosis	X	Carbon-carbon_bond_hydrolase	Mycobacterium tuberculosis and Mycobacterium bovis 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase bphD BPHD	2WUF	
+myctu-Rv3569c	Mycobacterium tuberculosis	X	Carbon-carbon_bond_hydrolase	Mycobacterium tuberculosis and Mycobacterium bovis 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase bphD BPHD	2WUG	
+myxxa-PEP	Myxococcus xanthus	X	S9N_PPCE_Peptidase_S9	Myxococcus xanthus prolyl endopeptidase precursor pep	2BKL	
+neime-ESD	Neisseria meningitidis	X	A85-EsteraseD-FGH	Neisseria meningitidis, Neisseria sicca, Neisseria mucosa, N. flavescens, N. cinerea, N. elongata, N. lactamica, N. polysaccharea, N. mucosa esterase d (EC 3.1.1.1)	4B6G	
+novad-q2g9t7	Novosphingobium aromaticivorans	X	6_AlphaBeta_hydrolase	Novosphingobium aromaticivorans (strain DSM 12444) alpha/beta hydrolase	3BWX	
+oenob-q04d10	Oenococcus oeni	X	6_AlphaBeta_hydrolase	Oenococcus oeni (strain BAA-331 / PSU-1) alpha/beta superfamily hydrolase	3FSG	
+olean-d0vwz4	Oleispira antarctica	X	A85-EsteraseD-FGH	Oleispira antarctica cold-active and anion-activated carboxyl esterase OLEI01171 Esterase APC40077	3S8Y	
+olean-d0vwz4	Oleispira antarctica	X	A85-EsteraseD-FGH	Oleispira antarctica cold-active and anion-activated carboxyl esterase OLEI01171 Esterase APC40077	3I6Y	
+olean-olei00960	Oleispira antarctica	X	RsbQ-like	Oleispira antarctica  olei00960	3QVM	
+pard8-a6lca7	Parabacteroides distasonis	X	Bacterial_esterase	Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / NCT 11152) Parabacteroides sp. D13  Putative uncharacterized protein	4Q34	
+penfu-PHAZ	Penicillium funiculosum	X	Esterase_phb_PHAZ	Penicillium funiculosum Polyhydroxybutyrate Depolymerase	2D80	
+penfu-PHAZ	Penicillium funiculosum	X	Esterase_phb_PHAZ	Penicillium funiculosum Polyhydroxybutyrate Depolymerase	2D81	
+penpu-axylest	Penicillium purporogenum	X	Acetylxylan_esterase	Penicillium purporogenum acetyl xylan esterase II precursor (EC 3.1.1.72) (axe-2)	1BS9	
+penpu-axylest	Penicillium purporogenum	X	Acetylxylan_esterase	Penicillium purporogenum acetyl xylan esterase II precursor (EC 3.1.1.72) (axe-2)	2AXE	
+penpu-axylest	Penicillium purporogenum	X	Acetylxylan_esterase	Penicillium purporogenum acetyl xylan esterase II precursor (EC 3.1.1.72) (axe-2)	1G66	
+porgi-q7muw6	Porphyromonas gingivalis	X	DPP4N_Peptidase_S9	Porphyromonas gingivalis (Bacteroides gingivalis) (and strain ATCC 33277 / DSM 20709 / JCM 12257) dipeptidyl aminopeptidase IV, putative	2EEP	
+porgi-q7muw6	Porphyromonas gingivalis	X	DPP4N_Peptidase_S9	Porphyromonas gingivalis (Bacteroides gingivalis) (and strain ATCC 33277 / DSM 20709 / JCM 12257) dipeptidyl aminopeptidase IV, putative	2Z3W	
+porgi-q7muw6	Porphyromonas gingivalis	X	DPP4N_Peptidase_S9	Porphyromonas gingivalis (Bacteroides gingivalis) (and strain ATCC 33277 / DSM 20709 / JCM 12257) dipeptidyl aminopeptidase IV, putative	2Z3Z	
+porgi-q7muw6	Porphyromonas gingivalis	X	DPP4N_Peptidase_S9	Porphyromonas gingivalis (Bacteroides gingivalis) (and strain ATCC 33277 / DSM 20709 / JCM 12257) dipeptidyl aminopeptidase IV, putative	2DCM	
+porgi-q7muw6	Porphyromonas gingivalis	X	DPP4N_Peptidase_S9	Porphyromonas gingivalis (Bacteroides gingivalis) (and strain ATCC 33277 / DSM 20709 / JCM 12257) dipeptidyl aminopeptidase IV, putative	2D5L	
+promi-c2lfd0	Proteus mirabilis	X	Bacterial_lip_FamI.1	Proteus mirabilis ATCC 29906 Lipase	4HS9	
+promi-c2lfd0	Proteus mirabilis	X	Bacterial_lip_FamI.1	Proteus mirabilis ATCC 29906 Lipase	4GXN	
+promi-c2lfd0	Proteus mirabilis	X	Bacterial_lip_FamI.1	Proteus mirabilis ATCC 29906 Lipase	4GW3	
+promi-c2lfd0	Proteus mirabilis	X	Bacterial_lip_FamI.1	Proteus mirabilis ATCC 29906 Lipase	3W9U	
+pseae-llipa	Pseudomonas aeruginosa	L	Bacterial_lip_FamI.1	Pseudomonas aeruginosa gene for lactonizing lipase triacylglycerol lipase (EC 3.1.1.3) lip lipA PA2862	1EX9	
+pseae-PA0480	Pseudomonas aeruginosa	X	Carboxymethylbutenolide_lactonase	Pseudomonas aeruginosa PA01 (and strains UCBPP-PA14, C3719, 2192; 138244; 39016; 152504; LESB58) PA0480	3OM8	
+pseae-PA1510	Pseudomonas aeruginosa	X	PGAP1	Pseudomonas aeruginosa hypothetical protein pa1510	4R1D	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4BAZ	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4BB0	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4BAT	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4BAU	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4B9A	
+pseae-PA2086	Pseudomonas aeruginosa	X	Haloacetate_dehalogenase	Pseudomonas aeruginosa (strains PA01; C3719; LESB58; 2192; UCBPP-PA14) PA2086	4B9E	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	5JYC	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	5HKA	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	5HKB	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	5HK9	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4YX9	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DLN	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DM7	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	5TNJ	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DMC	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DMF	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DMH	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DMK	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DNF	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4DNO	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4EHB	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	4EUS	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	3PI6	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	3KD2	
+pseae-PA2934	Pseudomonas aeruginosa	X	CFTR-inhibitory-factor_Cif	Pseudomonas aeruginosa (strains PA01, PA2934 LESB58; 2192; UCBPP-PA14; C3719) the CFTR inhibitory factor Cif an epoxide hydrolase virulence factor	3KDA	
+pseae-PA3053	Pseudomonas aeruginosa	X	AlphaBeta_hydrolase	Pseudomonas aeruginosa PA01  (and strain UCBPP-PA14),probable hydrolytic enzymePA3053	4F0J	
+pseae-PA3859	Pseudomonas aeruginosa	X	LYsophospholipase_carboxylesterase	Pseudomonas aeruginosa probable carboxylesterase	3CN7	
+pseae-PA3859	Pseudomonas aeruginosa	X	LYsophospholipase_carboxylesterase	Pseudomonas aeruginosa probable carboxylesterase	3CN9	
+pseae-Y2218	Pseudomonas aeruginosa	X	Dienelactone_hydrolase	Pseudomonas aeruginosa hypothetical protein pa2218	2HDW	
+psefl-cpoF	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens non-heme chloroperoxidase (cpoF)	1A8S	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	2D0D	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1IUN	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1IUO	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1IUP	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UK6	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UK7	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UK8	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UK9	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UKA	
+psefl-cumD	Pseudomonas fluorescens	X	Carbon-carbon_bond_hydrolase	Pseudomonas fluorescens cumD 2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	1UKB	
+psefl-cxest	Pseudomonas fluorescens	X	LYsophospholipase_carboxylesterase	Pseudomonas fluorescens carboxylesterase	1AUR	
+psefl-cxest	Pseudomonas fluorescens	X	LYsophospholipase_carboxylesterase	Pseudomonas fluorescens carboxylesterase	1AUO	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	3T4U	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	3T52	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	3IA2	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	3HI4	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	3HEA	
+psefl-este	Pseudomonas fluorescens	X	Haloperoxidase	Pseudomonas fluorescens SIK WI (and strain SBW25) esterase gene, complete cds	1VA4	
+pseht-q3il66	Pseudoalteromonas haloplanktis	X	A85-EsteraseD-FGH	Pseudoalteromonas haloplanktis (strain TAC 125) putative esterase (EC 3.1.1.-)	3LS2	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	5MLY	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	5MLX	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BVJ	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BVK	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BVL	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BRS	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BTV	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	4BYM	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	2VTV	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	2X76	
+psele-PHAZ7	Pseudomonas lemoignei	X	PHAZ7_phb_depolymerase	Pseudomonas lemoignei PHB depolymerase PhaZ7	2X5X	
+psepu-bpest	Pseudomonas putida	X	Haloperoxidase	Pseudomonas putida  (and strains KT2440; F1 / ATCC 700007; GB-1; W619) esterase	1ZOI	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1DIN	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1GGV	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2B	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2C	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2D	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2E	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2F	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4U2G	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4P93	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	4P92	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZI6	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZI9	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZIC	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZIX	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZI8	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZIY	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZJ4	
+psepu-clcd1	Pseudomonas putida	X	Dienelactone_hydrolase	Pseudomonas putida Pseudomonas sp. B13 dienelactone hydrolase clcD gene	1ZJ5	
+psepu-QDO	Pseudomonas putida	X	HOD-cofactorfree-dioxygenase	Pseudomonas putida (Arthrobacter siderocapsulatus). 1H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase	3IBT	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WWC	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WWD	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WWE	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WL5	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WL6	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WL7	
+psesp-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Pseudomonas sp oxidized polyvinyl alcohol hydrolase precursor	3WL8	
+sphs1-OPH	Pseudomonas sp.	X	AlphaBeta_hydrolase	Sphingopyxis sp. (strain 113P3) Oxidized polyvinyl alcohol hydrolase	3WLA	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	2ZVD	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	2ZJ6	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	2ZJ7	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	3A6Z	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	3A70	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	2Z8X	
+psesp-Q9RBY1	Pseudomonas sp. MIS38	L	Bacterial_lip_FamI.3	Pseudomonas sp. MIS38 lipase	2Z8Z	
+psyck-q1qeu6	Psychrobacter cryohalolentis	X	ABHD6-Lip	Psychrobacter cryohalolentis (strain K5) alpha/beta hydrolase fold precursor	4NS4	
+rhilo-MLL8374	Rhizobium loti	X	5_AlphaBeta_hydrolase	Rhizobium loti (Mesorhizobium loti) hypothetical protein mll8374	3B5E	
+rhom4-d0mhy8	Rhodothermus marinus	X	AlphaBeta_hydrolase	Rhodothermus marinus (strain ATCC 43812 / DSM 4252 / R-10) (Rhodothermus obamensis) Rmar_1206 esterase in n-term of a OsmC family domain	5CML	
+rhopa-q6n9m9	Rhodopseudomonas palustris	X	Mg-chelatase_BchO	Rhodopseudomonas palustris alpha/beta hydrolase fold	4PSU	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5T4T	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5SWN	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3A	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3B	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3C	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3D	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3F	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	5K3E	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3U	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3V	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3W	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3X	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3Y	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R3Z	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R40	
+rhopa-q6nam1	Rhodopseudomonas palustris	X	Haloacetate_dehalogenase	Rhodopseudomonas palustris (and strains BisB5; TIE-1) RPA1163 possible epoxide hydrolase	3R41	
+rhos4-q3j2v1	Rhodobacter sphaeroides	X	LYsophospholipase_carboxylesterase	Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DS158) phospholipase/carboxylesterase	4FTW	
+rhos4-q3j2v1	Rhodobacter sphaeroides	X	LYsophospholipase_carboxylesterase	Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DS158) phospholipase/carboxylesterase	4FHZ	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	1JU3	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	1JU4	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	1L7R	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	1L7Q	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3PUH	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3PUI	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	4P08	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2F	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2G	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2H	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2I	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2J	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3I2K	
+rhosm-cocE	Rhodococcus sp.	X	Cocaine_esterase	Rhodococcus sp. (strain MB1 Bresler) cocaine esterase (EC 3.1.1.-)	3IDA	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	1BN6	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	1BN7	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	1CQW	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4KAJ	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4KAA	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4KAC	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4KAF	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4KYV	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4WCV	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	5FLK	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4FWB	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4F5Z	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4F60	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4E46	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	3SK0	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	3RK4	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	3FWH	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	3G9X	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	4HZG	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	3FBW	
+rhoso-halo1	Pseudomonas pavonaceae	X	Haloalkane_dehalogenase-HLD2	Rhodococcus rhodochrous (Pseudomonas pavonaceae), Rhodococcus sp., Mycobacterium sp haloalkane dehalogenase (EC 3.8.1.5)	2V9Z	
+rhosp-bphd	Rhodococcus sp. DK17	X	Carbon-carbon_bond_hydrolase	Rhodococcus Sp. (Hpda) Hydrolase (Bphd Enzyme) 2-hydroxymuconic semialdehyde hydrolase	1C4X	
+rhosp-hercx	Rhodococcus sp.	H	Hormone-sensitive_lipase_like	Rhodococcus sp. heroin esterase (her)	1LZK	
+rhosp-hercx	Rhodococcus sp.	H	Hormone-sensitive_lipase_like	Rhodococcus sp. heroin esterase (her)	1LZL	
+ricty-q68wt4	Rickettsia typhi	X	6_AlphaBeta_hydrolase	Rickettsia typhi hypothetical protein	4OSE	
+ricty-q68xj3	Rickettsia typhi	X	S9N_PPCE_Peptidase_S9	Rickettsia typhi prolyl oligopeptidase family protein (EC 3.4.21.26)	4HVT	
+sacer-ery3	Saccharopolyspora erythraea	X	Thioesterase	Saccharopolyspora erythraea (Streptomyces erythraeus) deoxyerythronolide b synthase III (debs 3) Thioesterase domain	1KEZ	
+sacer-ery3	Saccharopolyspora erythraea	X	Thioesterase	Saccharopolyspora erythraea (Streptomyces erythraeus) deoxyerythronolide b synthase III (debs 3) Thioesterase domain	5D3K	
+sacer-ery3	Saccharopolyspora erythraea	X	Thioesterase	Saccharopolyspora erythraea (Streptomyces erythraeus) deoxyerythronolide b synthase III (debs 3) Thioesterase domain	5D3Z	
+sacer-ery3	Saccharopolyspora erythraea	X	Thioesterase	Saccharopolyspora erythraea (Streptomyces erythraeus) deoxyerythronolide b synthase III (debs 3) Thioesterase domain	1MO2	
+salty-AES	Salmonella typhi	H	Hormone-sensitive_lipase_like_1	Salmonella typhi, S. typhimurium, S. paratyphi, S. cholerae suis, S. agona, S. dublin, S. enteritidis, S. newport, S. schwarzengrund, acetyl esterase (EC 3.1.1.-)	3GA7	
+salty-BIOH	Salmonella typhimurium	X	BioH	Salmonella typhi, S. typhimurium, S. dublin, S. enteritidis, S. gallinarum, S. heidelberg, S. newport, S. paratyphi, S. enterica Putative hydrolase, biotin biosynthesis, reaction prior to pimeloyl coa	4NMW	
+salty-FES	Salmonella typhi	X	A85-IroE-IroD-Fes-Yiel	Salmonella typhi, S. typhimurium, S. paratyphi, S. choleraesuis, S. arizonae, S. enterica, S. enteritidis , S. gallinarum, S. dublin, S. agona, S. heidelberg, S. enterica subsp. enterica, enterochelin esterase	3MGA	
+salty-STM0332	Salmonella typhimurium	X	Haloacetate_dehalogenase	Salmonella typhimurium, Salmonella paratyphi, S. choleraesuis, S. enteritidis, S. enterica, S. agona, S. newport, S. dublin, S. gallinarum, putative hydrolase or acyltransferase	4NVR	
+serma-impep	Serratia marcescens	X	Proline_iminopeptidase	Serratia marcescens gene for prolyl aminopeptidase, complete cds	1QTR	
+serma-impep	Serratia marcescens	X	Proline_iminopeptidase	Serratia marcescens gene for prolyl aminopeptidase, complete cds	1WM1	
+serma-impep	Serratia marcescens	X	Proline_iminopeptidase	Serratia marcescens gene for prolyl aminopeptidase, complete cds	1X2B	
+serma-impep	Serratia marcescens	X	Proline_iminopeptidase	Serratia marcescens gene for prolyl aminopeptidase, complete cds	1X2E	
+sheon-SO3025	Shewanella oneidensis	X	A85-IroE-IroD-Fes-Yiel	Shewanella oneidensis Shewanella sp. ANA-3 conserved hypothetical protein	3GFF	
+shifl-FES	Shigella flexneri	X	A85-IroE-IroD-Fes-Yiel	Shigella flexneri, Shigella boydii, Shigella dysenteriae, Shigella sonnei  enterochelin esterase	3C87	
+shifl-FES	Shigella flexneri	X	A85-IroE-IroD-Fes-Yiel	Shigella flexneri, Shigella boydii, Shigella dysenteriae, Shigella sonnei  enterochelin esterase	3C8D	
+shifl-FES	Shigella flexneri	X	A85-IroE-IroD-Fes-Yiel	Shigella flexneri, Shigella boydii, Shigella dysenteriae, Shigella sonnei  enterochelin esterase	3C8H	
+shifl-FES	Shigella flexneri	X	A85-IroE-IroD-Fes-Yiel	Shigella flexneri, Shigella boydii, Shigella dysenteriae, Shigella sonnei  enterochelin esterase	2B20	
+silst-Q1GDP2	Silicibacter sp. TM1040	H	Hormone-sensitive_lipase_like	Silicibacter sp. TM1040 tm1040_2492 Putative esterase/lipase/thioesterase	2PBL	
+sphca-Q9ZNM8	Sphingomonas capsulata	X	S9N_PPCE_Peptidase_S9	Sphingomonas capsulata (Flavobacterium capsulata)prolyl oligopeptidase precursor (EC 3.4.21.26) (PE)	1YR2	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1CV2	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1D07	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	4WDQ	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	4WDR	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	5LKA	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1G4H	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1G5F	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1G42	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1IZ7	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1IZ8	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1K5P	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1K6E	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1K63	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	1MJ5	
+sphpi-linb	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingomonas sp., Sphingobium (japonicum ummariense indicum), Pseudomonas aeruginosa,  linB gene	2BFN	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H77	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7D	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7E	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7F	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7H	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7I	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7J	
+sphpi-q6vqx3	Sphingomonas paucimobilis	X	Haloalkane_dehalogenase-HLD2	Sphingomonas paucimobilis (Pseudomonas paucimobilis); Sphingobium sp., Sphingobium indicum; Haloalkane dehalogenase linB gene	4H7K	
+sphtd-d1c982	Sphaerobacter thermophilus	X	6_AlphaBeta_hydrolase	Sphaerobacter thermophilus (strain DSM 20745 / S 6022) Alpha/beta hydrolase fold protein	3R0V	
+sphww-a5j2a5	Sphingomonas wittichii	X	Carbon-carbon_bond_hydrolase	Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) Meta-cleavage pathway hydrolase protein	4LXG	
+sphww-a5j2a5	Sphingomonas wittichii	X	Carbon-carbon_bond_hydrolase	Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) Meta-cleavage pathway hydrolase protein	4LXH	
+sphww-a5j2a5	Sphingomonas wittichii	X	Carbon-carbon_bond_hydrolase	Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) Meta-cleavage pathway hydrolase protein	4LXI	
+sphww-a5j2a5	Sphingomonas wittichii	X	Carbon-carbon_bond_hydrolase	Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) Meta-cleavage pathway hydrolase protein	4LYD	
+sphww-a5j2a5	Sphingomonas wittichii	X	Carbon-carbon_bond_hydrolase	Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) Meta-cleavage pathway hydrolase protein	4LYE	
+staau-SA0011	Staphylococcus aureus	X	Homoserine_transacetylase	Staphylococcus aureus homoserine o-acetyltransferase (EC 2.3.1.31)	4QLO	
+staau-SA0897	Staphylococcus aureus	X	MenH_SHCHC	Staphylococcus aureus Alpha/beta hydrolase fold protein	2XMZ	
+staau-SAV0321	Staphylococcus aureus	H	Hormone-sensitive_lipase_like	Staphylococcus aureus, an hypothetical protein sav0321	3H04	
+staau-SAV2350	Staphylococcus aureus	H	Hormone-sensitive_lipase_like	Staphylococcus aureus Esterase	3D7R	
+staau-SAV2594	Staphylococcus aureus	X	Cocaine_esterase	Staphylococcus aureus  COCE/NOND family hydrolase, S15 family peptidase	3III	
+staau-SAV2594	Staphylococcus aureus	X	Cocaine_esterase	Staphylococcus aureus  COCE/NOND family hydrolase, S15 family peptidase	3IB3	
+staep-SE1780	Staphylococcus epidermidis	X	Duf_915	Staphylococcus epidermidis (ATCC 12228) (strain ATCC 35984 / RP62A) conserved hypothetical protein	3FLE	
+stahy-lipas	Staphylococcus hyicus	L	Bacterial_lip_FamI.6	Staphylococcus hyicus gene for lipase	2HIH	
+strau-brpa1	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens bromoperoxidase BPO-A1 (bpoA1)	1A8Q	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	1BRO	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	1BRT	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4QES	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4QF0	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4QFF	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4IQ4	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4ITV	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4IVJ	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	3VDX	
+strau-brpa2	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens metal-ion-free oxidoreductase (bpo2), bromoperoxidase, chloroperoxidase CPO-A2 (cpoA2)	4D9J	
+strau-cpoT	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens non-haem chloroperoxidase (cpoT)	1A8U	
+strau-cpoT	Streptomyces aureofaciens	X	Haloperoxidase	Streptomyces aureofaciens non-haem chloroperoxidase (cpoT)	1A7U	
+strco-SC3F7.14	Streptomyces coelicolor	X	Thioesterase	Streptomyces coelicolor thioesterase	3QMV	
+strco-SC3F7.14	Streptomyces coelicolor	X	Thioesterase	Streptomyces coelicolor thioesterase	3QMW	
+strcz-Q84HB1	Streptomyces carzinostaticus subsp. neocarzinostaticus	X	Epoxide_hydrolase	Streptomyces carzinostaticus subsp. neocarzinostaticus epoxide hydrolase	5F4Z	
+strcz-Q84HB8	Streptomyces carzinostaticus subsp. neocarzinostaticus	X	Epoxide_hydrolase	Streptomyces carzinostaticus subsp. neocarzinostaticus epoxide hydrolase	4I19	
+strcz-Q84HB8	Streptomyces carzinostaticus subsp. neocarzinostaticus	X	Epoxide_hydrolase	Streptomyces carzinostaticus subsp. neocarzinostaticus epoxide hydrolase	4QA9	
+strex-lipas	Streptomyces exfoliatus	L	Polyesterase-lipase-cutinase	Streptomyces exfoliatus lipase	1JFR	
+strha-q76ky6	Streptomyces halstedii	X	Proline_iminopeptidase	Streptomyces halstedii proline iminopeptidase	3WMR	
+strla-d2z028	Streptomyces lavendulae subsp. lavendulae	X	Homoserine_transacetylase	Streptomyces lavendulae subsp. lavendula, dcsE, metX, Homoserine O-acetyltransferase	3VVL	
+strla-d2z028	Streptomyces lavendulae subsp. lavendulae	X	Homoserine_transacetylase	Streptomyces lavendulae subsp. lavendula, dcsE, metX, Homoserine O-acetyltransferase	3VVM	
+strli-cpoL	Streptomyces lividans	X	Haloperoxidase	Streptomyces lividans Chloroperoxidase L TK64 chloroperoxidase (cpoL)	1A88	
+strmo-q2hxd9	Streptomyces morookaensis	X	PMH_Peptidase_S9	Streptomyces morookaensis (Streptoverticillium morookaense) aminopeptidase	3AZO	
+strmo-q2hxd9	Streptomyces morookaensis	X	PMH_Peptidase_S9	Streptomyces morookaensis (Streptoverticillium morookaense) aminopeptidase	3AZP	
+strmo-q2hxd9	Streptomyces morookaensis	X	PMH_Peptidase_S9	Streptomyces morookaensis (Streptoverticillium morookaense) aminopeptidase	3AZQ	
+strmu-SMU.737	Streptococcus mutans	X	AlphaBeta_hydrolase	Streptococcus mutans conserved hypothetical protein	3FNB	
+strmu-SMU.1393C	Streptococcus mutans	X	6_AlphaBeta_hydrolase	Streptococcus mutans conserved hypothetical protein	4L9A	
+strpn-SP0614	Streptococcus pneumoniae	X	A85-EsteraseD-FGH	Streptococcus pneumoniae, tributyrin esterase	2UZ0	
+strpu-rdmC	Streptomyces purpurascens	X	Aclacinomycin-methylesterase_RdmC	Streptomyces purpurascens ATCC 25489  RdmC (rdmC)	1Q0R	
+strpu-rdmC	Streptomyces purpurascens	X	Aclacinomycin-methylesterase_RdmC	Streptomyces purpurascens ATCC 25489  RdmC (rdmC)	1Q0Z	
+strpy-ESTA	Streptococcus pyogenes	X	A85-EsteraseD-FGH	Streptococcus pyogenes, Streptococcus dysgalactiae, putative tributyrin esterase	4ROT	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	2H7X	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	2H7Y	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	2HFJ	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	2HFK	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	1MN6	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	1MNA	
+strve-PIKAIV	Streptomyces venezuelae	X	Thioesterase	Streptomyces venezuelae type I polyketide synthase PikAIV	1MNQ	
+symth-q67mr3	Symbiobacterium thermophilum	X	CarbLipBact_2	Symbiobacterium thermophilum Esterase LipS from uncultured bacteria	4FBL	
+symth-q67mr3	Symbiobacterium thermophilum	X	CarbLipBact_2	Symbiobacterium thermophilum Esterase LipS from uncultured bacteria	4FBM	
+theac-TACID1.191	Thermoplasma acidophilum	X	CIB-CCG1-interacting-factor-B	Thermoplasma acidophilum Ta0194 TACID1_191 gene	3BDI	
+thema-TM0033	Thermotoga maritima	X	5_AlphaBeta_hydrolase	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)a EstA hypothetical 44.8 kda protein	3DOH	
+thema-TM0033	Thermotoga maritima	X	5_AlphaBeta_hydrolase	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)a EstA hypothetical 44.8 kda protein	3DOI	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	5GMA	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	5JIB	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	5FDF	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	5HFN	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	1VLQ	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	3M81	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	3M82	
+thema-TM0077	Thermotoga maritima	X	Acetyl-esterase_deacetylase	Thermotoga maritima, Thermotoga naphthophila, Thermotoga petrophila, Thermotoga neapolitana, acetyl xylan esterase (TM0077) (axeA) CE7	3M83	
+thesj-AXE1	Thermoanaerobacterium sp.	X	Acetyl-esterase_deacetylase	Thermoanaerobacterium sp., Thermoanaerobacterium thermosaccharolyticum (Clostridium thermosaccharolyticum), xylan esterase 1	3FCY	
+thet2-q72hm9	Thermus thermophilus	X	Proline_iminopeptidase	Thermus thermophilus proline iminopeptidase (EC 3.4.11.5)	2YYS	
+theth-TT1662	Thermus thermophilus	X	AlphaBeta_hydrolase	Thermus thermophilus TT1662 TTC1275 TTHA1638 (strain HB27/ATCC BAA-163/DSM 7039 and HB8 )	1UFO	
+thiha-cip2	Thielavia heterothallica	X	Glucuronoyl_esterase	Thielavia heterothallica (strain ATCC 42464 / BCRC 31852 / DSM 1799) (Myceliophthora thermophila) 4-O-methyl-glucuronoyl methylesterase	4G4G	
+thiha-cip2	Thielavia heterothallica	X	Glucuronoyl_esterase	Thielavia heterothallica (strain ATCC 42464 / BCRC 31852 / DSM 1799) (Myceliophthora thermophila) 4-O-methyl-glucuronoyl methylesterase	4G4I	
+thiha-cip2	Thielavia heterothallica	X	Glucuronoyl_esterase	Thielavia heterothallica (strain ATCC 42464 / BCRC 31852 / DSM 1799) (Myceliophthora thermophila) 4-O-methyl-glucuronoyl methylesterase	4G4J	
+uncmi-Q8GJP7	uncultured Microbacterium sp.	X	Haloperoxidase	uncultured Microbacterium sp co-factor free haloperoxidase (fragment)	1HKH	
+uncmi-Q8GJP7	uncultured Microbacterium sp.	X	Haloperoxidase	uncultured Microbacterium sp co-factor free haloperoxidase (fragment)	1HL7	
+vibch-VC1974	Vibrio cholerae	X	MenH_SHCHC	Vibrio cholerae hypothetical protein vc1974 2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase	1R3D	
+vibha-1luxd	Vibrio harveyi	X	Thioesterase_acyl-transferase	Vibrio harveyi, Vibrio orientalis, Vibrio vulnificus, Vibrio chagasii myristoyl-ACP-specific thioesterase  acyl transferase (luxD) gene	1THT	
+vibvy-y856	Vibrio vulnificus	X	Duf_1100	Vibrio vulnificus hypothetical FrsA upf0255 protein vv0856	3MVE	
+vibvy-y856	Vibrio vulnificus	X	Duf_1100	Vibrio vulnificus hypothetical FrsA upf0255 protein vv0856	3OUR	
+vibvy-y856	Vibrio vulnificus	X	Duf_1100	Vibrio vulnificus hypothetical FrsA upf0255 protein vv0856	4I4C	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1EDB	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1EDD	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1EDE	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2DHC	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2DHD	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2DHE	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2EDA	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2EDC	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2HAD	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1HDE	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1BE0	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1BEE	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1BEZ	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1B6G	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	1CIJ	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2PKY	
+xanau-halo1	Xanthobacter autotrophicus	X	Haloalkane_dehalogenase-HLD1	Xanthobacter autotrophicus, Xanthobacter flavus, Ancylobacter aquaticus, haloalkane dehalogenase	2YXP	
+xanax-GAA	Xanthomonas axonopodis	X	Cocaine_esterase	Xanthomonas axonopodis, Xanthomonas campestris (Xanthomonas citri), Xanthomonas oryzae, Xanthomonas fuscans, Xanthomonas gardneri,Xanthomonas perforans, glutaryl-7-aca acylase	1MPX	
+xanca-impep	Xanthomonas campestris	X	Proline_iminopeptidase	Xanthomonas campestris pv. citri (Xanthomonas citri), pv. campestris, pv. vesicatoria, Xanthomonas oryzae, Xanthomonas axonopodis, Xanthomonas perforans, Xanthomonas vesicatoria, Xanthomonas gardneri, Xanthomonas fuscans , Proline iminopeptidase gene	1AZW	
+xanca-XC6422	Xanthomonas campestris	X	Atu1826-like	Xanthomonas campestris (pv. campestris) protein XC6422 from  (pv. campestris strain 17)	2FUK	
+xanca-XCC1541	Xanthomonas campestris	X	AlphaBeta_hydrolase	Xanthomonas campestris (pv. campestris) hypothetical protein xcc1541	2QJW	
+xanca-XCC3885	Xanthomonas campestris	X	Prolyl_oligopeptidase_S9	Xanthomonas campestris (pv. campestris) hydrolase or peptidase	3KSR	
+xanma-P95782	Xanthomonas maltophilia	X	DPP4N_Peptidase_S9	Xanthomonas maltophilia (Pseudomonas maltophilia) dipeptidyl peptidase IV	2ECF	
+xanor-q5h5j0	Xanthomonas oryzae pv. oryzae	X	Fungal-Bact_LIP	Xanthomonas oryzae pv. oryzae Lipase/esterase (Fragment) [lipA] Putative uncharacterized protein	3H2G	
+xanor-q5h5j0	Xanthomonas oryzae pv. oryzae	X	Fungal-Bact_LIP	Xanthomonas oryzae pv. oryzae Lipase/esterase (Fragment) [lipA] Putative uncharacterized protein	3H2H	
+xanor-q5h5j0	Xanthomonas oryzae pv. oryzae	X	Fungal-Bact_LIP	Xanthomonas oryzae pv. oryzae Lipase/esterase (Fragment) [lipA] Putative uncharacterized protein	3H2I	
+xanor-q5h5j0	Xanthomonas oryzae pv. oryzae	X	Fungal-Bact_LIP	Xanthomonas oryzae pv. oryzae Lipase/esterase (Fragment) [lipA] Putative uncharacterized protein	3H2J	
+xanor-q5h5j0	Xanthomonas oryzae pv. oryzae	X	Fungal-Bact_LIP	Xanthomonas oryzae pv. oryzae Lipase/esterase (Fragment) [lipA] Putative uncharacterized protein	3H2K	
+yeren-YqiA	Yersinia pestis	X	abh_upf00227	Yersinia enterocolitica esterase YqiA (YE3661) A1JQU0	4FLE	
+9clot-r5t6k9	Clostridium hathewayi CAG:224	C	Carb_B_Bacteria	Clostridium hathewayi; Hungatella hathewayi  esterase of aliphatic aromatic polyesters	5A2G	

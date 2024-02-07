@@ -1,0 +1,139 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=45;
+	taxlabels
+	1A7U_chloroperoxidase_t_Streptomyces_aureofaciens[&!color=#000080]
+	1A88_chloroperoxidase_l_Streptomyces_lividans[&!color=#000080]
+	1A8Q_bromoperoxidase_a1_Streptomyces_aureofaciens[&!color=#000080]
+	1A8S_chloroperoxidase_f_Pseudomonas_fluorescens[&!color=#000080]
+	1AZW_proline_iminopeptidase_anthomonas_citri[&!color=#808000]
+	1B6G_haloalkane_dehalogenase_anthobacter_autotrophicus[&!color=#ff0080]
+	'1BN6_haloalkane_dehalogenase_Rhodococcus_sp.'[&!color=#ff0080]
+	1BRO_bromoperoxidase_a2_Streptomyces_aureofaciens[&!color=#000080]
+	1CIJ_protein_haloalkane_dehalogenase_anthobacter_autotrophicus[&!color=#ff0080]
+	'1CQW_haloalkane_dehalogenase._1_chlorohexane_halidohydrolase_Rhodococcus_sp.'[&!color=#ff0080]
+	1CV2_haloalkane_dehalogenase_Sphingomonas_paucimobilis[&!color=#ff0080]
+	1DIN_dienelactone_hydrolase_Pseudomonas_knackmussii[&!color=#ff0000]
+	1E9_lactonizing_lipase_Pseudomonas_aeruginosa[&!color=#ff8000]
+	1EHY_Epoxide_hydrolase_Agrobacterium_radiobacter[&!color=#4c4c4c]
+	1GGV_dienelactone_hydrolase_Pseudomonas_putida[&!color=#ff0000]
+	1HKH_gamma_lactamase_Microbacterium[&!color=#804000]
+	'1HL7_gamma_lactamase_Microbacterium_sp.'[&!color=#804000]
+	1HQD_lipase_Burkholderia_cepacia[&!color=#ff8000]
+	1I6W_lipase_a_Bacillus_subtilis[&!color=#ff8000]
+	1ISP_lipase_Bacillus_subtilis[&!color=#ff8000]
+	1IZ7_haloalkane_dehalogenase_linb_Sphingomonas_paucimobilis[&!color=#ff0080]
+	1QTR_prolyl_aminopeptidase_Serratia_marcescens[&!color=#808000]
+	1TAH_lipase_Burkholderia_glumae[&!color=#ff8000]
+	1WM1_proline_iminopeptidase_Serratia_marcescens[&!color=#808000]
+	2B61_homoserine_o_acetyltransferase_Haemophilus_influenzae[&!color=#008080]
+	2E3J_Epoxide_hydrolase_Mycobacterium_tuberculosis[&!color=#4c4c4c]
+	2H7_Thioesterase_Streptomyces_venezuelae[&!color=#800000]
+	2PL5_homoserine_o_acetyltransferase_Leptospira_interrogans[&!color=#008080]
+	3LCR_Thioesterase_Streptomyces_griseochromogenes[&!color=#800000]
+	5T3D_Thioesterase_Escherichia_coli[&!color=#800000]
+	'WP_010078536.1_acyl_CoA_synthetase_Micrococcus_luteus'[&!color=#008000]
+	'WP_011071875.1_alpha.beta_hydrolase_Shewanella_oneidensis'[&!color=#8000ff]
+	'WP_011919038.1_alpha.beta_hydrolase_Shewanella_putrefaciens'[&!color=#8000ff]
+	'WP_011981694.1_AMP_dependent_synthetase_and_ligase_Kineococcus_radiotolerans'[&!color=#008000]
+	'WP_012398119.1_hydrolase_Kocuria_rhizophila'[&!color=#008000]
+	'WP_012437021.1_alpha.beta_hydrolase_anthomonas_campestris'[&!color=#8000ff]
+	'WP_012478769.1_alpha.beta_hydrolase_Stenotrophomonas_maltophilia'[&!color=#8000ff]
+	'WP_012530535.1_alpha.beta_hydrolase_Geobacter_bemidjiensis'[&!color=#8000ff]
+	'WP_015490788.1_acyl_CoA_synthetase_Clavibacter_michiganensis'[&!color=#008000]
+	'WP_043806064.1_hydrolase_Paenarthrobacter_aurescens'[&!color=#008000]
+	'WP_045732134.1_hydrolase_Pseudarthrobacter_chlorophenolicus'[&!color=#008000]
+	'WP_052093928.1_alpha.beta_hydrolase_Colwellia_psychrerythraea'[&!color=#8000ff]
+	'WP_052116106.1_alpha.beta_hydrolase_Lysobacter_dokdonensis'[&!color=#8000ff]
+	'WP_052385891.1_alpha.beta_hydrolase_Arenimonas_malthae'[&!color=#8000ff]
+	'YP_001637106.1_haloalkane_dehalogenase_Chloroflexus_aurantiacus'[&!color=#8000ff]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((1HQD_lipase_Burkholderia_cepacia[&!color=#ff8000]:0.071111,1TAH_lipase_Burkholderia_glumae[&!color=#ff8000]:0.140821)[&label=96,!color=#ff8000]:0.326125,1E9_lactonizing_lipase_Pseudomonas_aeruginosa[&!color=#ff8000]:0.645059)[&label=99,!color=#ff8000]:0.8894,(1I6W_lipase_a_Bacillus_subtilis[&!color=#ff8000]:0.0,1ISP_lipase_Bacillus_subtilis[&!color=#ff8000]:0.0)[&label=100,!color=#ff8000]:1.026658)[&label=35,!color=#ff8000]:0.207305,1EHY_Epoxide_hydrolase_Agrobacterium_radiobacter[&!color=#4c4c4c]:1.949526)[&label=79,!color=#ff8000]:0.586963,(((((((((('WP_011919038.1_alpha.beta_hydrolase_Shewanella_putrefaciens'[&!color=#8000ff]:0.163183,'WP_011071875.1_alpha.beta_hydrolase_Shewanella_oneidensis'[&!color=#8000ff]:0.056922)[&label=100,!color=#8000ff]:0.120962,'WP_052093928.1_alpha.beta_hydrolase_Colwellia_psychrerythraea'[&!color=#8000ff]:0.167589)[&label=100,!color=#8000ff]:0.188666,'WP_012530535.1_alpha.beta_hydrolase_Geobacter_bemidjiensis'[&!color=#8000ff]:0.307243)[&label=85,!color=#8000ff]:0.124897,((('WP_012478769.1_alpha.beta_hydrolase_Stenotrophomonas_maltophilia'[&!color=#8000ff]:0.122274,'WP_012437021.1_alpha.beta_hydrolase_anthomonas_campestris'[&!color=#8000ff]:0.124126)[&label=97,!color=#8000ff]:0.142293,'WP_052116106.1_alpha.beta_hydrolase_Lysobacter_dokdonensis'[&!color=#8000ff]:0.190161)[&label=58,!color=#8000ff]:0.079241,'WP_052385891.1_alpha.beta_hydrolase_Arenimonas_malthae'[&!color=#8000ff]:0.199662)[&label=99,!color=#8000ff]:0.256642)[&label=72,!color=#8000ff]:0.251833,'YP_001637106.1_haloalkane_dehalogenase_Chloroflexus_aurantiacus'[&!color=#8000ff]:0.573031)[&label=89]:0.205182,(((('WP_045732134.1_hydrolase_Pseudarthrobacter_chlorophenolicus'[&!color=#008000]:0.105217,'WP_043806064.1_hydrolase_Paenarthrobacter_aurescens'[&!color=#008000]:0.12992)[&label=61,!color=#008000]:0.092477,'WP_012398119.1_hydrolase_Kocuria_rhizophila'[&!color=#008000]:0.472992)[&label=93,!color=#008000]:0.145808,'WP_011981694.1_AMP_dependent_synthetase_and_ligase_Kineococcus_radiotolerans'[&!color=#008000]:0.47399)[&label=49,!color=#008000]:0.060609,('WP_015490788.1_acyl_CoA_synthetase_Clavibacter_michiganensis'[&!color=#008000]:0.325156,'WP_010078536.1_acyl_CoA_synthetase_Micrococcus_luteus'[&!color=#008000]:0.402717)[&label=53,!color=#008000]:0.068075)[&label=100,!color=#008000]:0.645826)[&label=79]:0.186443,((('1BN6_haloalkane_dehalogenase_Rhodococcus_sp.'[&!color=#ff0080]:0.0,'1CQW_haloalkane_dehalogenase._1_chlorohexane_halidohydrolase_Rhodococcus_sp.'[&!color=#ff0080]:0.0)[&label=100,!color=#ff0080]:0.4489,(1CV2_haloalkane_dehalogenase_Sphingomonas_paucimobilis[&!color=#ff0080]:0.0,1IZ7_haloalkane_dehalogenase_linb_Sphingomonas_paucimobilis[&!color=#ff0080]:0.0)[&label=100,!color=#ff0080]:0.558471)[&label=100,!color=#ff0080]:0.494332,(1B6G_haloalkane_dehalogenase_anthobacter_autotrophicus[&!color=#ff0080]:0.0,1CIJ_protein_haloalkane_dehalogenase_anthobacter_autotrophicus[&!color=#ff0080]:0.0)[&label=100,!color=#ff0080]:1.091745)[&label=86,!color=#ff0080]:0.234769)[&label=97]:0.546187,((5T3D_Thioesterase_Escherichia_coli[&!color=#800000]:1.007891,2H7_Thioesterase_Streptomyces_venezuelae[&!color=#800000]:1.328898)[&label=18,!color=#800000]:0.071699,3LCR_Thioesterase_Streptomyces_griseochromogenes[&!color=#800000]:1.122037)[&label=24,!color=#800000]:0.114797)[&label=5]:0.008259,((((2B61_homoserine_o_acetyltransferase_Haemophilus_influenzae[&!color=#008080]:0.496103,2PL5_homoserine_o_acetyltransferase_Leptospira_interrogans[&!color=#008080]:0.593358)[&label=100,!color=#008080]:1.05931,2E3J_Epoxide_hydrolase_Mycobacterium_tuberculosis[&!color=#4c4c4c]:0.794676)[&label=92]:0.491095,((1QTR_prolyl_aminopeptidase_Serratia_marcescens[&!color=#808000]:0.0,1WM1_proline_iminopeptidase_Serratia_marcescens[&!color=#808000]:0.0)[&label=100,!color=#808000]:0.44091,1AZW_proline_iminopeptidase_anthomonas_citri[&!color=#808000]:0.250049)[&label=100,!color=#808000]:1.083768)[&label=48]:0.066467,(((1A88_chloroperoxidase_l_Streptomyces_lividans[&!color=#000080]:0.334773,1A8S_chloroperoxidase_f_Pseudomonas_fluorescens[&!color=#000080]:0.231675)[&label=87,!color=#000080]:0.175805,1A8Q_bromoperoxidase_a1_Streptomyces_aureofaciens[&!color=#000080]:0.39405)[&label=98,!color=#000080]:0.226981,((1A7U_chloroperoxidase_t_Streptomyces_aureofaciens[&!color=#000080]:0.00724,1BRO_bromoperoxidase_a2_Streptomyces_aureofaciens[&!color=#000080]:0.0)[&label=100,!color=#000080]:0.205973,(1HKH_gamma_lactamase_Microbacterium[&!color=#804000]:0.0,'1HL7_gamma_lactamase_Microbacterium_sp.'[&!color=#804000]:0.0)[&label=100,!color=#804000]:0.20858)[&label=100]:0.425743)[&label=99]:0.607996)[&label=66]:0.244068)[&label=4]:0.0,(1DIN_dienelactone_hydrolase_Pseudomonas_knackmussii[&!color=#ff0000]:0.008856,1GGV_dienelactone_hydrolase_Pseudomonas_putida[&!color=#ff0000]:0.0)[&label=100,!color=#ff0000]:1.795588)[&label=79]:0.082191)[&label=100];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute="User selection";
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=19.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=2.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=16;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

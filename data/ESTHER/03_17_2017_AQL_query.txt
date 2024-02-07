@@ -1,0 +1,1 @@
+select a,spec,fam,fam2,nam,struct from a in class Gene_locus where exists_tag a->Structure, org in a->Organism where org.name like "bacteria", spec in a->Species,fam in a->Block, fam2 in a->Family, nam in a->Name,struct in a->Structure
